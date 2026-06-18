@@ -1,0 +1,13 @@
+Baseline Models Performance:
+                     Accuracy  Precision    Recall        F1       AUC
+Model                                                                 
+Logistic Regression  0.868852   0.812500  0.928571  0.866667  0.950216
+Decision Tree        0.704918   0.638889  0.821429  0.718750  0.713745
+Random Forest        0.836066   0.800000  0.857143  0.827586  0.944805
+SVM                  0.901639   0.866667  0.928571  0.896552  0.955087
+
+Optimized Random Forest Performance:
+Accuracy: 0.9180
+Precision: 0.8710
+Recall: 0.9643
+F1-score: 0.9153
