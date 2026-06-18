@@ -6,3 +6,4 @@ models/*.pkl
 *.pyc
 .env
 .DS_Store
+scripts/generate_notebook.py
